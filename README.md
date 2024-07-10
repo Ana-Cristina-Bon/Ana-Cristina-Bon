@@ -1,10 +1,10 @@
 ### Olá!!!👋
 
-- 🔭 Atualmente trabalho em uma assistência técnica em computadores e ocupo o cargo de gerente
+- 🔭 Meu ultimo emprego foi como coordenadora NOC em um provedor de medio porte 
 - 👩‍🎓 Estou no 2º periodo da faculdade de ADS e faço curso de data science
 - 👩‍💻Embora esteja realizando o sonho da faculdade somente agora, tenho 8 anos de experiência em desenvolvimento de software
 - 😁 Estou em transição de carreira
-- 🤔 Procuro vagas de analista BI, analista de dados ou cientista de dados 
+- 🤔 Procuro vagas de engenheiro de dados, analista de dados ou cientista de dados 
 <div>
   <a href="https://beacons.ai/Ana-Cristina-Bon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ana-Cristina-Bon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
